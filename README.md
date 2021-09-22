@@ -4,4 +4,4 @@
 
 Bem-vindo ao meu repositório de soluções! 😄
 
-Aqui você encontrará soluções nas linguagens: C, C++, C#, Java, Python e SQL 👨‍💻
+Aqui você encontrará soluções nas linguagens: **C**, **C++**, **C#**, **Java**, **Python** e **SQL** 👨‍💻
